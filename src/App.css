@@ -1,0 +1,28 @@
+body{
+  color: aliceblue;
+  font-style: initial;
+  padding: 30px;
+}
+.task-input{
+border: solid;
+
+height: 300px;
+background-color:
+dodgerblue;
+
+}
+.input-inner{
+  width: 100%;
+  height: 30px;
+  
+  
+}
+
+.title{
+  text-align: end;
+}
+.btn{
+  float: inline-end;
+}
+.text{
+  color: black;}
